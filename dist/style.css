@@ -199,3 +199,79 @@ li,
   font-size: 20px;
   width: 80%;
 }
+
+.contact-section {
+  margin-top: 5vh;
+  height: 700px;
+  background-image: url('./images/about.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-section h1 {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 100px;
+  color: aliceblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  width: 15%;
+  border-bottom: 2px solid aqua;
+}
+
+.contact-section p {
+  font-family: cursive;
+  font-size: 20px;
+  width: 80%;
+  color: aliceblue;
+  text-align: center;
+  margin: 40px auto;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 30px auto;
+}
+
+form div label {
+  color: white;
+  font-size: 20px;
+}
+
+form div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70%;
+  margin: 15px auto;
+}
+
+form div input {
+  width: 80%;
+  height: 25px;
+  border-radius: 10%;
+}
+
+.form-section label {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.form-section > input {
+  height: 80px;
+  width: 70%;
+  margin: 20px auto;
+}
+
+.form-section > button {
+  height: 40px;
+  width: 20%;
+  margin: 10px auto;
+  color: black;
+  font-weight: bolder;
+  background-color: rgb(255, 94, 0);
+}
