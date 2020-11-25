@@ -4,6 +4,10 @@ const menu = () => {
   menuSection.setAttribute('class', 'menu-section');
   content.appendChild(menuSection);
 
+  const pageHeader = document.createElement('h1');
+  pageHeader.innerHTML = 'Menu';
+  menuSection.appendChild(pageHeader);
+
   const menuItems = () => {
     const menuList = [{
       header: 'STARTERS',
@@ -89,7 +93,7 @@ const menu = () => {
       const menuHeader = document.createElement('h2');
       menuHeader.setAttribute('class', 'menu-header');
       mealType.appendChild(menuHeader);
-      menuHeader.innerHTML = `< = = = = = = ${menuList[i].header} = = = = = = >`;
+      menuHeader.innerHTML = `${menuList[i].header}`;
       menuSection.appendChild(mealType);
       for (let j = 0; j < menuList[i].items.length; j += 1) {
         const meal = document.createElement('div');

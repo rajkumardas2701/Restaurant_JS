@@ -9,7 +9,7 @@ import menu from './menu.js';
 const component = () => {
   navBar();
   // home();
-  menu();
+  // menu();
 
   footer();
 };
