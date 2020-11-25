@@ -6,7 +6,7 @@ const menu = () => {
 
   const menuItems = () => {
     const menuList = [{
-      header: 'Starters',
+      header: 'STARTERS',
       items: [{
         name: 'Dragon Chicken',
         price: '$2',
@@ -25,7 +25,7 @@ const menu = () => {
       }],
     },
     {
-      header: 'Main Course',
+      header: 'MAIN COURSE',
       items: [{
         name: 'Worli Style Mutton Curry',
         price: '$10',
@@ -44,7 +44,7 @@ const menu = () => {
       }],
     },
     {
-      header: 'Dessert',
+      header: 'DESSERT',
       items: [{
         name: 'Pecan Pie Cheesecake',
         price: '$3',
@@ -63,7 +63,7 @@ const menu = () => {
       }],
     },
     {
-      header: 'Beverages',
+      header: 'BEVERAGES',
       items: [{
         name: 'Hot Chocolate',
         price: '$2',
@@ -89,7 +89,7 @@ const menu = () => {
       const menuHeader = document.createElement('h2');
       menuHeader.setAttribute('class', 'menu-header');
       mealType.appendChild(menuHeader);
-      menuHeader.innerHTML = `${menuList[i].header}`;
+      menuHeader.innerHTML = `< = = = = = = ${menuList[i].header} = = = = = = >`;
       menuSection.appendChild(mealType);
       for (let j = 0; j < menuList[i].items.length; j += 1) {
         const meal = document.createElement('div');
