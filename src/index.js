@@ -4,13 +4,14 @@ import navBar from './navbar.js';
 import home from './home.js';
 import footer from './footer.js';
 import menu from './menu.js';
+import about from './about.js';
 
 
 const component = () => {
   navBar();
   // home();
   // menu();
-
+  about();
   footer();
 };
 
