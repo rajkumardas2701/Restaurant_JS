@@ -25,6 +25,11 @@ const navBar = () => {
   const navTabs = () => {
     const navTabItems = [
       {
+        className: 'Home',
+        contentID: 'homeTab',
+        contentText: 'Home',
+      },
+      {
         className: 'Menu',
         contentID: 'menuTab',
         contentText: 'Menu',
