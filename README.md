@@ -18,7 +18,7 @@ Restaurant project is to display how to use ES6 modules and setup application us
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/rajkumardas2701/Restaurant_JS/af1748991bce2f8a60b11ac827788a9bcecc16ce/dist/index.html)
 
 ### Prerequisites
 - Any kind of browser supporting CSS3 and HTML5
