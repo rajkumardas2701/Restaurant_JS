@@ -1,73 +1,56 @@
-# Project Name
+# Restaurant Application using Javascript
 
-> One paragraph statement about the project.
+> A Restaurant page developed using Javascript and webpack as modules bundler
 
-![screenshot](./app_screenshot.png)
+![screenshot](./dist/images/home.png)
+![screenshot](./dist/images/menu.png)
+![screenshot](./dist/images/about.png)
+![screenshot](./dist/images/contact.png)
 
-Additional description about the project and its features.
+Restaurant project is to display how to use ES6 modules and setup application using webpack.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
+- JavaScript,
+- Webpack
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/rajkumardas2701/Restaurant_JS/af1748991bce2f8a60b11ac827788a9bcecc16ce/dist/index.html)
 
+## Getting started
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
+- Have latest version of JS installed.
+- Have Node and NPM installed.
+- Install the latest version of your browser of choice.
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Clone this repo to your computer using git clone
+- Run npm install to install all the dependencies.
+- Open index.html from the dist folder on the local Live server to run the app.
 
 ## Authors
 
-👤 **Author1**
+👤 **Rajkumar Das**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@rajkumardas2701](https://github.com/rajkumardas2701)
+- Twitter: [@Rajkuma58621299](https://twitter.com/Rajkuma58621299)
+- Linkedin: [Rajkumar Das](https://www.linkedin.com/in/rajkumar-das-41308961/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rajkumardas2701/Restaurant_JS/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
