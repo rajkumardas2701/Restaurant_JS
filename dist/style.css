@@ -211,14 +211,14 @@ li,
 }
 
 .contact-section h1 {
-  width: 40%;
+  width: 230px;
   margin: 0 auto;
   text-align: center;
   padding-top: 100px;
   color: aliceblue;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 40px;
-  width: 15%;
+  /* width: 15%; */
   border-bottom: 2px solid aqua;
 }
 
