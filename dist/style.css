@@ -275,3 +275,15 @@ form div input {
   font-weight: bolder;
   background-color: rgb(255, 94, 0);
 }
+
+.hide-home-section,
+.hide-menu-section,
+.hide-about-section,
+.hide-contact-section {
+  display: none;
+}
+
+.active-tab {
+  text-decoration: underline;
+  text-decoration-color: aqua;
+}
