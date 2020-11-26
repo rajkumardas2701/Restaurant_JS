@@ -14,25 +14,25 @@ Restaurant project is to display how to use ES6 modules and setup application us
 - HTML,
 - CSS,
 - JavaScript,
-- Webpck
+- Webpack
 
 ## Live Demo
 
 [Live Demo Link](https://rawcdn.githack.com/rajkumardas2701/Restaurant_JS/af1748991bce2f8a60b11ac827788a9bcecc16ce/dist/index.html)
 
+## Getting started
+
+To get a local copy up and running follow these simple steps.
+
 ### Prerequisites
-- Any kind of browser supporting CSS3 and HTML5
+- Have latest version of JS installed.
+- Have Node and NPM installed.
+- Install the latest version of your browser of choice.
 
 ### Setup
-- Fork the repo to your remote repository.
-- Clone or download the repository to your local machine.
-
-### Install
-- No istallation required.
-
-### Running the Project
-- Access the index.html in the dist folder and open it in your browser.
-- Change the various pages by clicking the nav bar links
+- Clone this repo to your computer using git clone
+- Run npm install to install all the dependencies.
+- Open index.html from the dist folder on the local Live server to run the app.
 
 ## Authors
 
